@@ -23,13 +23,13 @@ jobs:
 
     - name: Build the mod
       run: |
-        mkdir build
+        mkdir -p build
         cd build
-        cmake ..
+        cmake ../Geode
         make
 
     - name: Upload Geode file
       uses: actions/upload-artifact@v2
       with:
         name: TextureRandomizer.geode
-        path: build/output/mod.geode
+        path: build/mods/TextureRandomizer.geode
