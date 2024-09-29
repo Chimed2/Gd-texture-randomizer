@@ -1,0 +1,9 @@
+{
+    "id": "texture_randomizer",
+    "name": "Texture Randomizer",
+    "version": "1.0.0",
+    "developer": "Your Name",
+    "description": "This mod randomizes textures in Geometry Dash and provides a reset option to restore the original textures.",
+    "api_version": "1.0.0",
+    "entry": "mod.cpp"
+}
