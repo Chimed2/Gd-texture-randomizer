@@ -14,9 +14,11 @@ jobs:
         config:
         - name: Windows
           os: windows-latest
+          target: Windows
 
         - name: macOS
           os: macos-latest
+          target macOS
 
         - name: Android32
           os: ubuntu-latest
