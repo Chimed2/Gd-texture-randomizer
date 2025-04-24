@@ -1,9 +1,9 @@
 {
-    "id": "texture_randomizer",
+    "id": "texture_randomizer_by_chimed",
     "name": "Texture Randomizer",
     "version": "1.0.0",
-    "developer": "Your Name",
-    "description": "This mod randomizes textures in Geometry Dash and provides a reset option to restore the original textures.",
+    "developer": "chimed",
+    "description": "This mod randomizes textures in Geometry Dash and provides a reset option to restore the original textures. this is made as a port to geode of gd Colon's texture randomizer",
     "api_version": "1.0.0",
     "entry": "mod.cpp"
 }
